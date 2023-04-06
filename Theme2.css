@@ -65,9 +65,9 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
-  --mention-hover-color: rgba(250, 166, 26, 0.08);
+  --mention-color: rgba(66, 212, 245 0.05);
+  --mention-sider: rgba(66, 212, 245 1);
+  --mention-hover-color: rgba(66, 212, 245 0.08);
 
   /*
     Server category hover color
